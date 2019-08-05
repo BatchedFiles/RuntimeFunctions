@@ -1,1 +1,3 @@
-# RuntimeFunctions
+﻿# RuntimeFunctions
+
+Некоторые часто используемые функции времени выполнения.
